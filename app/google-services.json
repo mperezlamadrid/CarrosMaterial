@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "656684379515",
+    "firebase_url": "https://carrosmaterial.firebaseio.com",
+    "project_id": "carrosmaterial",
+    "storage_bucket": "carrosmaterial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656684379515:android:0c658d0042bec6c6",
+        "android_client_info": {
+          "package_name": "com.example.manuelperez.carrosmaterial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656684379515-m3ilqnht0c28l8j17qglp2atntec5b2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manuelperez.carrosmaterial",
+            "certificate_hash": "a3f755f2e32057a2baaadea9c2fe7d886a0c433b"
+          }
+        },
+        {
+          "client_id": "656684379515-1vg9durj2m5om6dajb4v21cu7q88ljm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoE6pTtBqXKLFNeWooa_YcCq6nLin2BIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656684379515-1vg9durj2m5om6dajb4v21cu7q88ljm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
